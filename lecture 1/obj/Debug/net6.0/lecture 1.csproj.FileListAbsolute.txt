@@ -1,0 +1,15 @@
+C:\Users\Технопарт\Desktop\Новая папка (2)\даша гикбрейнс\с шарп\lecture 1\bin\Debug\net6.0\lecture 1.exe
+C:\Users\Технопарт\Desktop\Новая папка (2)\даша гикбрейнс\с шарп\lecture 1\bin\Debug\net6.0\lecture 1.deps.json
+C:\Users\Технопарт\Desktop\Новая папка (2)\даша гикбрейнс\с шарп\lecture 1\bin\Debug\net6.0\lecture 1.runtimeconfig.json
+C:\Users\Технопарт\Desktop\Новая папка (2)\даша гикбрейнс\с шарп\lecture 1\bin\Debug\net6.0\lecture 1.dll
+C:\Users\Технопарт\Desktop\Новая папка (2)\даша гикбрейнс\с шарп\lecture 1\bin\Debug\net6.0\lecture 1.pdb
+C:\Users\Технопарт\Desktop\Новая папка (2)\даша гикбрейнс\с шарп\lecture 1\obj\Debug\net6.0\lecture 1.csproj.AssemblyReference.cache
+C:\Users\Технопарт\Desktop\Новая папка (2)\даша гикбрейнс\с шарп\lecture 1\obj\Debug\net6.0\lecture 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Технопарт\Desktop\Новая папка (2)\даша гикбрейнс\с шарп\lecture 1\obj\Debug\net6.0\lecture 1.AssemblyInfoInputs.cache
+C:\Users\Технопарт\Desktop\Новая папка (2)\даша гикбрейнс\с шарп\lecture 1\obj\Debug\net6.0\lecture 1.AssemblyInfo.cs
+C:\Users\Технопарт\Desktop\Новая папка (2)\даша гикбрейнс\с шарп\lecture 1\obj\Debug\net6.0\lecture 1.csproj.CoreCompileInputs.cache
+C:\Users\Технопарт\Desktop\Новая папка (2)\даша гикбрейнс\с шарп\lecture 1\obj\Debug\net6.0\lecture 1.dll
+C:\Users\Технопарт\Desktop\Новая папка (2)\даша гикбрейнс\с шарп\lecture 1\obj\Debug\net6.0\refint\lecture 1.dll
+C:\Users\Технопарт\Desktop\Новая папка (2)\даша гикбрейнс\с шарп\lecture 1\obj\Debug\net6.0\lecture 1.pdb
+C:\Users\Технопарт\Desktop\Новая папка (2)\даша гикбрейнс\с шарп\lecture 1\obj\Debug\net6.0\lecture 1.genruntimeconfig.cache
+C:\Users\Технопарт\Desktop\Новая папка (2)\даша гикбрейнс\с шарп\lecture 1\obj\Debug\net6.0\ref\lecture 1.dll
